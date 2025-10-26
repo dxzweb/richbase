@@ -1,4 +1,9 @@
-baseURL = 'https://example.org/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 theme = "ananke"
+
+# Set the Base URL to match your GitHub Pages structure
+baseURL = "https://dxzweb.github.io/richbase/"
+
+# Set the publishing directory to 'docs'
+publishDir = "docs"
