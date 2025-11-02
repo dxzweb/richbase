@@ -2,11 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Richbase Solutions</title>
-    <link>https://dxzweb.github.io/richbase/</link>
+    <link>http://localhost:1313/richbase/</link>
     <description>Recent content on Richbase Solutions</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate></lastBuildDate>
-    <atom:link href="https://dxzweb.github.io/richbase/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 01 Nov 2025 19:35:22 -0700</lastBuildDate>
+    <atom:link href="http://localhost:1313/richbase/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ai Agents and Custom Gpts Guide</title>
+      <link>http://localhost:1313/richbase/ai/ai-agents-and-custom-gpts-guide/</link>
+      <pubDate>Sat, 01 Nov 2025 19:35:22 -0700</pubDate>
+      <guid>http://localhost:1313/richbase/ai/ai-agents-and-custom-gpts-guide/</guid>
+      <description>&lt;h1 id=&#34;understanding-ai-agents-and-how-to-build-effective-custom-gpts&#34;&gt;Understanding AI Agents and How to Build Effective Custom GPTs&lt;/h1&gt;&#xA;&lt;p&gt;Artificial Intelligence (AI) has rapidly evolved from simple chatbots to sophisticated, semi-autonomous agents capable of handling complex tasks. For creators, researchers, and professionals, AI agents can now assist in writing, research, marketing, and automation. This article explains what AI agents are, what they can do, and how to build your own effective, multi-purpose AI assistants using tools like ChatGPT Plus.&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>
