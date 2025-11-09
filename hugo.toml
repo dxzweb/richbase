@@ -3,7 +3,7 @@ title = 'Richbase Solutions'
 theme = "ananke"
 
 # Set the Base URL to match your GitHub Pages structure
-baseURL = "https://dxzweb.github.io/richbase/"
-
+# baseURL = "https://dxzweb.github.io/richbase/"
+baseURL = "https://richbase.com/"
 # Set the publishing directory to 'docs'
 publishDir = "docs"
