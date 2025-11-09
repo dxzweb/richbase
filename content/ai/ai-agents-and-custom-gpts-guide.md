@@ -1,7 +1,9 @@
 +++
 date = '2025-11-01T19:35:22-07:00'
 draft = false
-title = 'Ai Agents and Custom Gpts Guide'
+title = 'AI Agents and Custom GPTs Guide'
+# slug = 'understanding-ai-agents'
+# url = '/newtech/ai-agent-gpt'
 +++
 
 

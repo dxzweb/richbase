@@ -2,17 +2,38 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/richbase/ai/ai-agents-and-custom-gpts-guide/</loc>
+    <loc>https://dxzweb.github.io/richbase/programming/programming_career_ai_era/</loc>
+    <lastmod>2025-11-05T22:43:20-08:00</lastmod>
+  </url><url>
+    <loc>https://dxzweb.github.io/richbase/programming/</loc>
+    <lastmod>2025-11-05T22:43:20-08:00</lastmod>
+  </url><url>
+    <loc>https://dxzweb.github.io/richbase/</loc>
+    <lastmod>2025-11-05T22:43:20-08:00</lastmod>
+  </url><url>
+    <loc>https://dxzweb.github.io/richbase/programming/powershell-quick-start/</loc>
+    <lastmod>2025-11-05T21:57:40-08:00</lastmod>
+  </url><url>
+    <loc>https://dxzweb.github.io/richbase/webdev/free-and-low-cost-web-hosting/</loc>
+    <lastmod>2025-11-04T23:12:07-08:00</lastmod>
+  </url><url>
+    <loc>https://dxzweb.github.io/richbase/webdev/</loc>
+    <lastmod>2025-11-04T23:12:07-08:00</lastmod>
+  </url><url>
+    <loc>https://dxzweb.github.io/richbase/webdev/static-site-generators-ssg-review/</loc>
+    <lastmod>2025-11-04T22:50:45-08:00</lastmod>
+  </url><url>
+    <loc>https://dxzweb.github.io/richbase/webdev/jamstack-web-development/</loc>
+    <lastmod>2025-11-04T21:48:55-08:00</lastmod>
+  </url><url>
+    <loc>https://dxzweb.github.io/richbase/ai/ai-agents-and-custom-gpts-guide/</loc>
     <lastmod>2025-11-01T19:35:22-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/richbase/ai/</loc>
+    <loc>https://dxzweb.github.io/richbase/ai/</loc>
     <lastmod>2025-11-01T19:35:22-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/richbase/</loc>
-    <lastmod>2025-11-01T19:35:22-07:00</lastmod>
+    <loc>https://dxzweb.github.io/richbase/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/richbase/categories/</loc>
-  </url><url>
-    <loc>http://localhost:1313/richbase/tags/</loc>
+    <loc>https://dxzweb.github.io/richbase/tags/</loc>
   </url>
 </urlset>
