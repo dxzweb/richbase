@@ -2,6 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://richbase.com/programming/</loc>
+    <lastmod>2025-11-09T11:25:25-08:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>https://richbase.com/</loc>
     <lastmod>2025-11-09T11:25:25-08:00</lastmod>
     <changefreq>monthly</changefreq>
