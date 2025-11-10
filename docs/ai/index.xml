@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Ais on Richbase Solutions</title>
-    <link>https://richbase.com/ai/</link>
-    <description>Recent content in Ais on Richbase Solutions</description>
+    <title>AI Insights on Richbase Solutions</title>
+    <link>http://localhost:1313/ai/</link>
+    <description>Recent content in AI Insights on Richbase Solutions</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 01 Nov 2025 19:35:22 -0700</lastBuildDate>
-    <atom:link href="https://richbase.com/ai/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/ai/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>AI Agents and Custom GPTs Guide</title>
-      <link>https://richbase.com/ai/ai-agents-and-custom-gpts-guide/</link>
+      <link>http://localhost:1313/ai/ai-agents-and-custom-gpts-guide/</link>
       <pubDate>Sat, 01 Nov 2025 19:35:22 -0700</pubDate>
-      <guid>https://richbase.com/ai/ai-agents-and-custom-gpts-guide/</guid>
+      <guid>http://localhost:1313/ai/ai-agents-and-custom-gpts-guide/</guid>
       <description>&lt;h1 id=&#34;understanding-ai-agents-and-how-to-build-effective-custom-gpts&#34;&gt;Understanding AI Agents and How to Build Effective Custom GPTs&lt;/h1&gt;&#xA;&lt;p&gt;Artificial Intelligence (AI) has rapidly evolved from simple chatbots to sophisticated, semi-autonomous agents capable of handling complex tasks. For creators, researchers, and professionals, AI agents can now assist in writing, research, marketing, and automation. This article explains what AI agents are, what they can do, and how to build your own effective, multi-purpose AI assistants using tools like ChatGPT Plus.&lt;/p&gt;</description>
     </item>
   </channel>

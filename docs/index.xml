@@ -2,52 +2,52 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Richbase Solutions</title>
-    <link>https://richbase.com/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on Richbase Solutions</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 05 Nov 2025 22:43:20 -0800</lastBuildDate>
-    <atom:link href="https://richbase.com/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Programming in AI Era</title>
-      <link>https://richbase.com/programming/programming_career_ai_era/</link>
+      <link>http://localhost:1313/programming/programming_career_ai_era/</link>
       <pubDate>Wed, 05 Nov 2025 22:43:20 -0800</pubDate>
-      <guid>https://richbase.com/programming/programming_career_ai_era/</guid>
+      <guid>http://localhost:1313/programming/programming_career_ai_era/</guid>
       <description>&lt;h1 id=&#34;programming-careers-in-2026-and-beyond&#34;&gt;Programming Careers in 2026 and Beyond&lt;/h1&gt;&#xA;&lt;p&gt;The programming profession is entering one of the most transformative periods in its history. Artificial Intelligence, automation, and low-code technologies are reshaping how software is written and delivered. Yet, despite predictions of “AI replacing programmers,” the reality is far more nuanced: programming remains a dynamic, intellectually rewarding, and highly employable career — but one that demands continuous adaptation. The modern programmer must blend traditional technical mastery with a deep understanding of data, systems, and human-AI collaboration.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Powershell Quick Start</title>
-      <link>https://richbase.com/programming/powershell-quick-start/</link>
+      <link>http://localhost:1313/programming/powershell-quick-start/</link>
       <pubDate>Wed, 05 Nov 2025 21:57:40 -0800</pubDate>
-      <guid>https://richbase.com/programming/powershell-quick-start/</guid>
+      <guid>http://localhost:1313/programming/powershell-quick-start/</guid>
       <description>&lt;h1 id=&#34;getting-started-with-powershell-a-complete-beginners-guide&#34;&gt;Getting Started with PowerShell: A Complete Beginner’s Guide&lt;/h1&gt;&#xA;&lt;p&gt;PowerShell is a powerful automation and scripting language designed for system administrators, IT professionals, and developers who want to manage, configure, and automate systems efficiently. Whether you’re on Windows, macOS, or Linux, PowerShell provides a unified environment for handling repetitive tasks and managing infrastructure at scale.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;-understanding-powershell-versions&#34;&gt;⚙️ Understanding PowerShell Versions&lt;/h2&gt;&#xA;&lt;p&gt;Before diving into scripting, it’s essential to understand the difference between &lt;strong&gt;Windows PowerShell&lt;/strong&gt; and &lt;strong&gt;PowerShell (Core)&lt;/strong&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>How to Host Your Websites Free</title>
-      <link>https://richbase.com/webdev/free-and-low-cost-web-hosting/</link>
+      <link>http://localhost:1313/webdev/free-and-low-cost-web-hosting/</link>
       <pubDate>Tue, 04 Nov 2025 23:12:07 -0800</pubDate>
-      <guid>https://richbase.com/webdev/free-and-low-cost-web-hosting/</guid>
+      <guid>http://localhost:1313/webdev/free-and-low-cost-web-hosting/</guid>
       <description>&lt;h1 id=&#34;reliable-free--low-cost-web-hosting--review-for-2025&#34;&gt;Reliable Free &amp;amp; Low-Cost Web Hosting — Review for 2025&lt;/h1&gt;&#xA;&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;If you’re building a website — whether it’s a personal blog, static site for a side project, or a small business presence — hosting costs and reliability matter.&lt;br&gt;&#xA;Free hosting can get you started, but as you grow, you may want to choose a low-cost paid host that offers better performance, uptime, and support.&lt;/p&gt;&#xA;&lt;p&gt;This article reviews reliable &lt;strong&gt;free&lt;/strong&gt; and &lt;strong&gt;low-cost&lt;/strong&gt; web hosting options in 2025, including updated pricing, features, and considerations for selecting the best host for your needs.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Most Popular SSGs in Web Development</title>
-      <link>https://richbase.com/webdev/static-site-generators-ssg-review/</link>
+      <link>http://localhost:1313/webdev/static-site-generators-ssg-review/</link>
       <pubDate>Tue, 04 Nov 2025 22:50:45 -0800</pubDate>
-      <guid>https://richbase.com/webdev/static-site-generators-ssg-review/</guid>
+      <guid>http://localhost:1313/webdev/static-site-generators-ssg-review/</guid>
       <description>&lt;h1 id=&#34;static-site-generators-ssgs-a-comprehensive-review&#34;&gt;Static Site Generators (SSGs): A Comprehensive Review&lt;/h1&gt;&#xA;&lt;p&gt;In the evolving world of web development, &lt;strong&gt;Static Site Generators (SSGs)&lt;/strong&gt; have become a powerful alternative to traditional content management systems (CMS) like WordPress or Drupal. Instead of dynamically generating pages on each user request, SSGs prebuild the entire website into static HTML, CSS, and JavaScript files. This approach leads to faster load times, greater security, lower costs, and easier scalability.&lt;/p&gt;&#xA;&lt;p&gt;Whether you’re creating a personal blog, documentation site, or professional portfolio, an SSG offers a clean, efficient, and developer-friendly workflow. In this post, we’ll review several popular static site generators — including &lt;strong&gt;Hugo&lt;/strong&gt;, &lt;strong&gt;Jekyll&lt;/strong&gt;, &lt;strong&gt;Pelican&lt;/strong&gt;, &lt;strong&gt;Gatsby&lt;/strong&gt;, and &lt;strong&gt;Eleventy&lt;/strong&gt; — to help you choose the right one for your needs.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Jamstack Architecture and Workflow</title>
-      <link>https://richbase.com/webdev/jamstack-web-development/</link>
+      <link>http://localhost:1313/webdev/jamstack-web-development/</link>
       <pubDate>Tue, 04 Nov 2025 21:48:55 -0800</pubDate>
-      <guid>https://richbase.com/webdev/jamstack-web-development/</guid>
+      <guid>http://localhost:1313/webdev/jamstack-web-development/</guid>
       <description>&lt;h1 id=&#34;understanding-jamstack-web-development&#34;&gt;Understanding JAMstack Web Development&lt;/h1&gt;&#xA;&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;JAMstack&lt;/strong&gt; is a modern web development architecture that emphasizes speed, security, and scalability by decoupling the front-end presentation layer from the back-end logic and data sources. The term &lt;em&gt;JAMstack&lt;/em&gt; stands for &lt;strong&gt;JavaScript&lt;/strong&gt;, &lt;strong&gt;APIs&lt;/strong&gt;, and &lt;strong&gt;Markup&lt;/strong&gt;, which together define how websites and web apps are structured and delivered.&lt;/p&gt;&#xA;&lt;p&gt;Unlike traditional web architectures that rely on server-side processing and databases to generate web pages dynamically, JAMstack focuses on pre-rendering static assets and serving them through a &lt;strong&gt;Content Delivery Network (CDN)&lt;/strong&gt;. This shift provides significant improvements in performance, security, and developer workflow.&lt;/p&gt;</description>
     </item>
     <item>
       <title>AI Agents and Custom GPTs Guide</title>
-      <link>https://richbase.com/ai/ai-agents-and-custom-gpts-guide/</link>
+      <link>http://localhost:1313/ai/ai-agents-and-custom-gpts-guide/</link>
       <pubDate>Sat, 01 Nov 2025 19:35:22 -0700</pubDate>
-      <guid>https://richbase.com/ai/ai-agents-and-custom-gpts-guide/</guid>
+      <guid>http://localhost:1313/ai/ai-agents-and-custom-gpts-guide/</guid>
       <description>&lt;h1 id=&#34;understanding-ai-agents-and-how-to-build-effective-custom-gpts&#34;&gt;Understanding AI Agents and How to Build Effective Custom GPTs&lt;/h1&gt;&#xA;&lt;p&gt;Artificial Intelligence (AI) has rapidly evolved from simple chatbots to sophisticated, semi-autonomous agents capable of handling complex tasks. For creators, researchers, and professionals, AI agents can now assist in writing, research, marketing, and automation. This article explains what AI agents are, what they can do, and how to build your own effective, multi-purpose AI assistants using tools like ChatGPT Plus.&lt;/p&gt;</description>
     </item>
   </channel>

@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Programmings on Richbase Solutions</title>
-    <link>https://richbase.com/programming/</link>
-    <description>Recent content in Programmings on Richbase Solutions</description>
+    <title>Programming on Richbase Solutions</title>
+    <link>http://localhost:1313/programming/</link>
+    <description>Recent content in Programming on Richbase Solutions</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 05 Nov 2025 22:43:20 -0800</lastBuildDate>
-    <atom:link href="https://richbase.com/programming/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/programming/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Programming in AI Era</title>
-      <link>https://richbase.com/programming/programming_career_ai_era/</link>
+      <link>http://localhost:1313/programming/programming_career_ai_era/</link>
       <pubDate>Wed, 05 Nov 2025 22:43:20 -0800</pubDate>
-      <guid>https://richbase.com/programming/programming_career_ai_era/</guid>
+      <guid>http://localhost:1313/programming/programming_career_ai_era/</guid>
       <description>&lt;h1 id=&#34;programming-careers-in-2026-and-beyond&#34;&gt;Programming Careers in 2026 and Beyond&lt;/h1&gt;&#xA;&lt;p&gt;The programming profession is entering one of the most transformative periods in its history. Artificial Intelligence, automation, and low-code technologies are reshaping how software is written and delivered. Yet, despite predictions of “AI replacing programmers,” the reality is far more nuanced: programming remains a dynamic, intellectually rewarding, and highly employable career — but one that demands continuous adaptation. The modern programmer must blend traditional technical mastery with a deep understanding of data, systems, and human-AI collaboration.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Powershell Quick Start</title>
-      <link>https://richbase.com/programming/powershell-quick-start/</link>
+      <link>http://localhost:1313/programming/powershell-quick-start/</link>
       <pubDate>Wed, 05 Nov 2025 21:57:40 -0800</pubDate>
-      <guid>https://richbase.com/programming/powershell-quick-start/</guid>
+      <guid>http://localhost:1313/programming/powershell-quick-start/</guid>
       <description>&lt;h1 id=&#34;getting-started-with-powershell-a-complete-beginners-guide&#34;&gt;Getting Started with PowerShell: A Complete Beginner’s Guide&lt;/h1&gt;&#xA;&lt;p&gt;PowerShell is a powerful automation and scripting language designed for system administrators, IT professionals, and developers who want to manage, configure, and automate systems efficiently. Whether you’re on Windows, macOS, or Linux, PowerShell provides a unified environment for handling repetitive tasks and managing infrastructure at scale.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;-understanding-powershell-versions&#34;&gt;⚙️ Understanding PowerShell Versions&lt;/h2&gt;&#xA;&lt;p&gt;Before diving into scripting, it’s essential to understand the difference between &lt;strong&gt;Windows PowerShell&lt;/strong&gt; and &lt;strong&gt;PowerShell (Core)&lt;/strong&gt;.&lt;/p&gt;</description>
     </item>
   </channel>

@@ -1,0 +1,38 @@
+languageCode = 'en-us'
+title = 'Richbase Solutions'
+theme = "ananke"
+# Set the Base URL to match your GitHub Pages structure
+# baseURL = "https://dxzweb.github.io/richbase/"
+baseURL = "https://richbase.com/"
+# Set the publishing directory to 'docs'
+publishDir = "docs"
+
+#resourceDir = "../resources"
+
+DefaultContentLanguage = "en"
+SectionPagesMenu = "main"
+#Paginate = 6                  # this is set low for demonstrating with dummy content. Set to a higher number
+#site config key paginate was deprecated in Hugo v0.128.0 and subsequently removed. Use pagination.pagerSize instead.
+pagination.pagerSize = 6
+googleAnalytics = ""
+enableRobotsTXT = true
+
+
+[sitemap]
+changefreq = "monthly"
+priority = 0.5
+filename = "sitemap.xml"
+
+[params]
+text_color = ""
+author = ""
+favicon = ""
+site_logo = ""
+description = "The last theme you'll ever need. Maybe."
+# choose a background color from any on this page: https://tachyons.io/docs/themes/skins/ and preface it with "bg-"
+background_color_class = "bg-black"
+recent_posts_number = 5
+
+[[params.ananke_socials]]
+name = "twitter"
+url = "https://twitter.com/GoHugoIO"
