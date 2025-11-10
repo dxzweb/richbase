@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Web Development on Richbase Solutions</title>
-    <link>http://localhost:1313/webdev/</link>
+    <link>https://richbase.com/webdev/</link>
     <description>Recent content in Web Development on Richbase Solutions</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 04 Nov 2025 23:12:07 -0800</lastBuildDate>
-    <atom:link href="http://localhost:1313/webdev/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://richbase.com/webdev/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>How to Host Your Websites Free</title>
-      <link>http://localhost:1313/webdev/free-and-low-cost-web-hosting/</link>
+      <link>https://richbase.com/webdev/free-and-low-cost-web-hosting/</link>
       <pubDate>Tue, 04 Nov 2025 23:12:07 -0800</pubDate>
-      <guid>http://localhost:1313/webdev/free-and-low-cost-web-hosting/</guid>
+      <guid>https://richbase.com/webdev/free-and-low-cost-web-hosting/</guid>
       <description>&lt;h1 id=&#34;reliable-free--low-cost-web-hosting--review-for-2025&#34;&gt;Reliable Free &amp;amp; Low-Cost Web Hosting — Review for 2025&lt;/h1&gt;&#xA;&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;If you’re building a website — whether it’s a personal blog, static site for a side project, or a small business presence — hosting costs and reliability matter.&lt;br&gt;&#xA;Free hosting can get you started, but as you grow, you may want to choose a low-cost paid host that offers better performance, uptime, and support.&lt;/p&gt;&#xA;&lt;p&gt;This article reviews reliable &lt;strong&gt;free&lt;/strong&gt; and &lt;strong&gt;low-cost&lt;/strong&gt; web hosting options in 2025, including updated pricing, features, and considerations for selecting the best host for your needs.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Most Popular SSGs in Web Development</title>
-      <link>http://localhost:1313/webdev/static-site-generators-ssg-review/</link>
+      <link>https://richbase.com/webdev/static-site-generators-ssg-review/</link>
       <pubDate>Tue, 04 Nov 2025 22:50:45 -0800</pubDate>
-      <guid>http://localhost:1313/webdev/static-site-generators-ssg-review/</guid>
+      <guid>https://richbase.com/webdev/static-site-generators-ssg-review/</guid>
       <description>&lt;h1 id=&#34;static-site-generators-ssgs-a-comprehensive-review&#34;&gt;Static Site Generators (SSGs): A Comprehensive Review&lt;/h1&gt;&#xA;&lt;p&gt;In the evolving world of web development, &lt;strong&gt;Static Site Generators (SSGs)&lt;/strong&gt; have become a powerful alternative to traditional content management systems (CMS) like WordPress or Drupal. Instead of dynamically generating pages on each user request, SSGs prebuild the entire website into static HTML, CSS, and JavaScript files. This approach leads to faster load times, greater security, lower costs, and easier scalability.&lt;/p&gt;&#xA;&lt;p&gt;Whether you’re creating a personal blog, documentation site, or professional portfolio, an SSG offers a clean, efficient, and developer-friendly workflow. In this post, we’ll review several popular static site generators — including &lt;strong&gt;Hugo&lt;/strong&gt;, &lt;strong&gt;Jekyll&lt;/strong&gt;, &lt;strong&gt;Pelican&lt;/strong&gt;, &lt;strong&gt;Gatsby&lt;/strong&gt;, and &lt;strong&gt;Eleventy&lt;/strong&gt; — to help you choose the right one for your needs.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Jamstack Architecture and Workflow</title>
-      <link>http://localhost:1313/webdev/jamstack-web-development/</link>
+      <link>https://richbase.com/webdev/jamstack-web-development/</link>
       <pubDate>Tue, 04 Nov 2025 21:48:55 -0800</pubDate>
-      <guid>http://localhost:1313/webdev/jamstack-web-development/</guid>
+      <guid>https://richbase.com/webdev/jamstack-web-development/</guid>
       <description>&lt;h1 id=&#34;understanding-jamstack-web-development&#34;&gt;Understanding JAMstack Web Development&lt;/h1&gt;&#xA;&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;JAMstack&lt;/strong&gt; is a modern web development architecture that emphasizes speed, security, and scalability by decoupling the front-end presentation layer from the back-end logic and data sources. The term &lt;em&gt;JAMstack&lt;/em&gt; stands for &lt;strong&gt;JavaScript&lt;/strong&gt;, &lt;strong&gt;APIs&lt;/strong&gt;, and &lt;strong&gt;Markup&lt;/strong&gt;, which together define how websites and web apps are structured and delivered.&lt;/p&gt;&#xA;&lt;p&gt;Unlike traditional web architectures that rely on server-side processing and databases to generate web pages dynamically, JAMstack focuses on pre-rendering static assets and serving them through a &lt;strong&gt;Content Delivery Network (CDN)&lt;/strong&gt;. This shift provides significant improvements in performance, security, and developer workflow.&lt;/p&gt;</description>
     </item>
   </channel>
